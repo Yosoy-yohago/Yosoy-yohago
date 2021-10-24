@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yosoy-yohago
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Soy Yosoy-yohago
+Estoy interesada y me apasiona  el Arte
+Actualmente me desempeño como docente y artista plastica
+También estoy desarrollando un taller de Desarrollo personal a través del arte para ofrecerlo en las redes.
+Para contactar conmigo, escríbeme a Lauragoyco@gmail.com
 
 <!---
 Yosoy-yohago/Yosoy-yohago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
